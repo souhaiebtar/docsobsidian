@@ -10,3 +10,5 @@ https://symfony.com/doc/current/create_framework/introduction.html
 
 https://medium.com/shecodeafrica/building-your-own-custom-php-framework-part-1-1d24223bab18
 
+https://medium.com/shecodeafrica/building-your-own-custom-php-framework-part-2-c4de74e948a5
+
