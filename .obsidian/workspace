@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "php/create framework.md",
+            "file": "php/php projects.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "scrap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "php/create framework.md",
+                "file": "php/php projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +101,7 @@
   },
   "active": "696ee3e8f140cb48",
   "lastOpenFiles": [
+    "php/php projects.md",
     "php/create framework.md",
     "TMP stuff.md",
     "php/design partterns article and.md",
@@ -108,7 +110,6 @@
     "Server/kvm virt virsh cheat sheet.md",
     "Server/web server proxy reverse proxy solution.md",
     "Server/True nas scale.md",
-    "Server/installing an iso image on ovh _ soyoustart dedicated server _ nicolas busseneau.pdf",
-    "Server/test trash recover.md"
+    "Server/installing an iso image on ovh _ soyoustart dedicated server _ nicolas busseneau.pdf"
   ]
 }
