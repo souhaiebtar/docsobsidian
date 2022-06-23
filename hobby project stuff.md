@@ -2,4 +2,4 @@
 
 esphome
 
-home
+home assistant
