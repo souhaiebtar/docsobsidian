@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "php/create framework.md",
+            "file": "stuff.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "php/create framework.md",
+                "file": "stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +100,7 @@
   },
   "active": "696ee3e8f140cb48",
   "lastOpenFiles": [
+    "stuff.md",
     "php/create framework.md",
     "php/php projects.md",
     "TMP stuff.md",
@@ -108,7 +109,6 @@
     "Server/SelfHosted VPN.md",
     "Server/kvm virt virsh cheat sheet.md",
     "Server/web server proxy reverse proxy solution.md",
-    "Server/True nas scale.md",
-    "Server/installing an iso image on ovh _ soyoustart dedicated server _ nicolas busseneau.pdf"
+    "Server/True nas scale.md"
   ]
 }
