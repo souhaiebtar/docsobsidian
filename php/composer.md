@@ -13,3 +13,8 @@ in **production** or **staging** run `composer install --no-dev`
 in **development** or **testing** run `composer install`
 
 composer dumpautoload --optimize 
+
+https://getcomposer.org/doc/articles/autoloader-optimization.md
+
+https://dev.to/mtk3d/read-this-before-you-start-using-the-multistage-builds-for-your-docker-images-21e7
+
