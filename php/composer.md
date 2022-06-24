@@ -12,3 +12,4 @@ in **production** or **staging** run `composer install --no-dev`
 
 in **development** or **testing** run `composer install`
 
+composer dumpautoload --optimize 
