@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Server/Servers.md",
+            "file": "Server/SelfHosted VPN.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/Servers.md",
+                "file": "Server/SelfHosted VPN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "696ee3e8f140cb48",
   "lastOpenFiles": [
-    "Server/Servers.md",
     "Server/SelfHosted VPN.md",
     "Server/kvm virt virsh cheat sheet.md",
+    "Server/installing an iso image on ovh _ soyoustart dedicated server _ nicolas busseneau.pdf",
+    "Server/web server proxy reverse proxy solution.md",
+    "Server/True nas scale.md",
+    "Server/Servers.md",
     "php/composer.md",
     "php/design partterns article and.md",
     "web/clean code - refactoring.md",
-    "web/rest api.md",
-    "php/php projects.md",
-    "php/create framework.md",
-    "TMP stuff.md"
+    "web/rest api.md"
   ]
 }
