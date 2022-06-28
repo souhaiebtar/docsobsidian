@@ -7,11 +7,9 @@
         "id": "696ee3e8f140cb48",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Server/web server proxy reverse proxy solution.md",
-            "mode": "source",
-            "source": false
+            "file": "Server/installing an iso image on ovh _ soyoustart dedicated server _ nicolas busseneau.pdf"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/web server proxy reverse proxy solution.md",
+                "file": "Server/installing an iso image on ovh _ soyoustart dedicated server _ nicolas busseneau.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,12 +98,12 @@
   },
   "active": "696ee3e8f140cb48",
   "lastOpenFiles": [
+    "Server/installing an iso image on ovh _ soyoustart dedicated server _ nicolas busseneau.pdf",
     "Server/web server proxy reverse proxy solution.md",
     "Server/True nas scale.md",
     "Server/Servers.md",
     "Server/SelfHosted VPN.md",
     "Server/kvm virt virsh cheat sheet.md",
-    "Server/installing an iso image on ovh _ soyoustart dedicated server _ nicolas busseneau.pdf",
     "TMP stuff.md",
     "hobby project stuff.md",
     "3 design patterns every developer should learn _ bits and pieces.pdf",
