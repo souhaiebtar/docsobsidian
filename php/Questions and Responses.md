@@ -41,3 +41,7 @@ comment configure-t-on `ParamConverter` pour que le paramètre `productId` soit 
 le tye de messages est une chaine de caractère et peut donc adopter n'importe quelle valeur souhaitée
 
 6. quelles méthodes doivent etre définies lors de l'implémentation de `Symfony\Component\Security\Core\User\UserProviderInterface` ?
+* `refreshUser(UserInterface $user)`
+* `loadUserByUsername($username)`
+
+7
