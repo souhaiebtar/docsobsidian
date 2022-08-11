@@ -33,9 +33,11 @@ public function editProductAction(Request $request, Product $product)
 	//
 }
 ```
-comment configure-t-on `ParamConverter` pour que le paramètre `productId` soit affecté à la propriété `id` de `Product` ?
+comment configure-t-on `ParamConverter` pour que le paramètre `productId` soit affecté à la propriété `id` de `Product` ? 
 
 `@ParamConvert("product", options={"mapping": {"prductId": "id"}})`
 
-5. quel types de messages FlashBang sont-ils supportés par Symfony ?
+5. quel types de messages FlashBag sont-ils supportés par Symfony ?
 le tye de messages est une chaine de caractère et peut donc adopter n'importe quelle valeur souhaitée
+
+6. 
