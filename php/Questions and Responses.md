@@ -44,4 +44,9 @@ le tye de messages est une chaine de caractère et peut donc adopter n'importe q
 * `refreshUser(UserInterface $user)`
 * `loadUserByUsername($username)`
 
-7
+7. quelle option de la ligne de commande permet de spécifier un commentaire de commit à l'exécution de `git commit` ?
+`-m`
+
+8. quel fichier mis à la racine de votre dépot est utilisé par **Github** pour afficher un résumé ou de la documentation relative à votre page ?
+`README.md`
+
