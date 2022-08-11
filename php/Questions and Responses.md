@@ -38,3 +38,4 @@ comment configure-t-on `ParamConverter` pour que le paramètre `productId` soit 
 `@ParamConvert("product", options={"mapping": {"prductId": "id"}})`
 
 5. quel types de messages FlashBang sont-ils supportés par Symfony ?
+le tye de messages est une chaine de caractère et peut donc adopter n'importe quelle valeur souhaitée
