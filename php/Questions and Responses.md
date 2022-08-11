@@ -33,4 +33,4 @@ public function editProductAction(Request $request, Product $product)
 	//
 }
 ```
-comment configure-t-on `ParamConverter` pour que le paramètre `productId` soit affecté à la propriété `id` de `Produ`
+comment configure-t-on `ParamConverter` pour que le paramètre `productId` soit affecté à la propriété `id` de `Product` 
