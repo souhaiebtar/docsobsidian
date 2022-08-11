@@ -56,4 +56,3 @@ le tye de messages est une chaine de caractère et peut donc adopter n'importe q
 10. on vous demande de corriger le bug n 33. vous créez donc une nouvelle branche `bugfix33` et commitez les changements requis sur cette branche, Ecrivez la prochaine commande git qui merge ces changements sur la branche `master` (la branche courant),
 `git merge bugfix33`
 
-
