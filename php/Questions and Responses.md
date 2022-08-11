@@ -37,4 +37,4 @@ comment configure-t-on `ParamConverter` pour que le paramètre `productId` soit 
 
 `@ParamConvert("product", options={"mapping": {"prductId": "id"}})`
 
-5. 
+5. quel types de messages FlashBang sont-ils supportés par Symfony ?
