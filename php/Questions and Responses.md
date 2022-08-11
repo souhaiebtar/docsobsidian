@@ -19,4 +19,4 @@ $entityManager->flush();
 2. comment obtenir tous les bundles ?
 `$this->container->getParameter('kernel.bundles');`
 
-3. quelle annotation de validation 
+3. quelle annotation de validation de contrainte disponible dans 
