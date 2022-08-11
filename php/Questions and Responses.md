@@ -19,4 +19,7 @@ $entityManager->flush();
 2. comment obtenir tous les bundles ?
 `$this->container->getParameter('kernel.bundles');`
 
-3. quelle annotation de validation de contrainte disponible dans 
+3. quelle annotation de validation de contrainte disponible dans Symfony 4.1+ peut-on utiliser pour valider un email en utilisant la validation html5 ?
+`@Assert\Email(mode = "html5")`
+
+4. 
