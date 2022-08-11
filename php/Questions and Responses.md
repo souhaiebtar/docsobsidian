@@ -22,4 +22,15 @@ $entityManager->flush();
 3. quelle annotation de validation de contrainte disponible dans Symfony 4.1+ peut-on utiliser pour valider un email en utilisant la validation html5 ?
 `@Assert\Email(mode = "html5")`
 
-4. 
+4. On Considère le code suivant:
+```
+/**
+* @Route("/products/{productId}/edit", name = "edit_product")
+*
+* /
+public function editProductAction(Request $request, Product $product)
+{
+	//
+}
+```
+comment configure-t-on `ParamConverter` pour que le paramètre `productId` soit affecté à la propriété `id` de `Produ`
