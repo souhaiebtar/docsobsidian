@@ -50,3 +50,5 @@ le tye de messages est une chaine de caractère et peut donc adopter n'importe q
 8. quel fichier mis à la racine de votre dépot est utilisé par **Github** pour afficher un résumé ou de la documentation relative à votre page ?
 `README.md`
 
+9. un dépot distant a pour URL: `https://github.com/hellogit/hello.git` , Ecriverz la commande utilisée pour créer une copie locale de ce dépot dans le repertoire courant
+`git clone https://github.com/hellogit/hello.git`
