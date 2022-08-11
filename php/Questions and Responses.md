@@ -40,4 +40,4 @@ comment configure-t-on `ParamConverter` pour que le paramètre `productId` soit 
 5. quel types de messages FlashBag sont-ils supportés par Symfony ?
 le tye de messages est une chaine de caractère et peut donc adopter n'importe quelle valeur souhaitée
 
-6. 
+6. quelles méthodes doivent etre définies lors de l'implémentation de `Symfony\Component\Security\Core\User\UserProviderInterface` ?
