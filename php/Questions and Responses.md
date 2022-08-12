@@ -70,4 +70,7 @@ elle indique au demon docke que le container sera a a l'ecoute d'un port donne
 * `COPY` n'a pas la possibilité d'extraire les archives tar  ou d'aller recuperer un fichier depuis un url alors que `ADD` le peut
 
 15. pour garantir la pérennité de votre serveur, vous avez besoin d'afficher des informations relatives à la quantité d'espace disque utilisé par le démon docker. quelle commande est appropriée pour ce cas de figure ?
+`docker system df`
+
+16. vous gérez le cluster Docker Swarm ci-dessus. Comme le nombre d'utilisateurs croit vous avez besoin de redimensionner la taille de votre cluster.
 
