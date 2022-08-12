@@ -68,3 +68,6 @@ elle indique au demon docke que le container sera a a l'ecoute d'un port donne
 
 14. `COPY` et `ADD` sont des instructions du dockerfile utilisées pour copier un fichier dans le container durant la phase de build. mais il y a une difference entre ces instructions ?
 * `COPY` n'a pas la possibilité d'extraire les archives tar  ou d'aller recuperer un fichier depuis un url alors que `ADD` le peut
+
+15. pour garantir la pérennité de votre serveur, vous avez besoin d'afficher des informations relatives à la quantité d'espace disque utilisé par le démon docker. quelle commande est appropriée pour ce cas de figure ?
+
