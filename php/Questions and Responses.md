@@ -66,4 +66,5 @@ le tye de messages est une chaine de caractère et peut donc adopter n'importe q
 13. quel est le role de l'instruction `EXPOSE` dans un Dockerfile ?
 elle indique au demon docke que le container sera a a l'ecoute d'un port donne
 
-14. `COPY` et `ADD` sont des instructions du dockerfile utilisées pour copier un fichier dans le container durant la phase de build. mais 
+14. `COPY` et `ADD` sont des instructions du dockerfile utilisées pour copier un fichier dans le container durant la phase de build. mais il y a une difference entre ces instructions ?
+* `COPY` n'a pas la possibilité d'extraire les archives tar  ou d'aller recuperer un fichier depuis un url alors que `ADD` le peut
