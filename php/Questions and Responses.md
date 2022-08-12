@@ -58,4 +58,5 @@ le tye de messages est une chaine de caractère et peut donc adopter n'importe q
 
 11. qu'est-ce qui  est **vrai** à propos de l'option `--amend` de la commande `git commit` ?
 * elle ne peut modifier que le dernier commit
-* 
+* elle peut a la fois modifier le message de commit et ajouter des nouveaux fichiers au meme commit
+
