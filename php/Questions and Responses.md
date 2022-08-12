@@ -72,5 +72,7 @@ elle indique au demon docke que le container sera a a l'ecoute d'un port donne
 15. pour garantir la pérennité de votre serveur, vous avez besoin d'afficher des informations relatives à la quantité d'espace disque utilisé par le démon docker. quelle commande est appropriée pour ce cas de figure ?
 `docker system df`
 
-16. vous gérez le cluster Docker Swarm ci-dessus. Comme le nombre d'utilisateurs croit vous avez besoin de redimensionner la taille de votre cluster.
+16. vous gérez le cluster Docker Swarm ci-dessus. Comme le nombre d'utilisateurs croit vous avez besoin de redimensionner la taille de votre cluster. (constitue de 1 master et 2 esclave)
+* Ajouter 1 maitre et 2 esclaves (generalement lors de l'ajout on ajoute plus d'esclave que de maitre)
 
+17. 
