@@ -60,4 +60,10 @@ le tye de messages est une chaine de caractère et peut donc adopter n'importe q
 * elle ne peut modifier que le dernier commit
 * elle peut a la fois modifier le message de commit et ajouter des nouveaux fichiers au meme commit
 
-12. Pour Investiguer un probleme, vous avez besoin de lancer un **shell interactif**  (bash) dans un container en cours d'exécution  nommé `mycontainer` , votre but est de pouvoir exécuter des commandes  depuis l'interi
+12. Pour Investiguer un probleme, vous avez besoin de lancer un **shell interactif**  (bash) dans un container en cours d'exécution  nommé `mycontainer` , votre but est de pouvoir exécuter des commandes  depuis l'interieur du container. quelle commande utiliseriez-vous pour lancer ce shell ?
+* `docker exec -it mycontainer  /bin/bash`
+
+13. quel est le role de l'instruction `EXPOSE` dans un Dockerfile ?
+elle indique au demon docke que le container sera a a l'ecoute d'un port donne
+
+14. 
