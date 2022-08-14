@@ -104,4 +104,10 @@ quelle est la valeur de la variable $sentence ?
 
 `There are 4 cakes for 11 people.`
 
-2
+21. quelle fonction n'est pas un fonction PHP par default ?
+* print_r
+* floatval
+* is_real
+* getsize (thre correct response)
+
+22. saisissez le nom de la fonction qui convertit tous les caractères éligibles  en entités
