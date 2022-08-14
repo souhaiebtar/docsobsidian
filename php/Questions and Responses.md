@@ -115,4 +115,6 @@ quelle est la valeur de la variable $sentence ?
 
 23. quel est la fonction  qui test la fin d'un fichier sur un pointeur de fichier ?
 * feof
-24. implementez la fonction `closestToZero`  pour renvoyer  l'entier  du tableau `ints`
+24. implementez la fonction `closestToZero`  pour renvoyer  l'entier  du tableau `$ints` le plus proche de zéro.
+*  s'il y a deux entiers tout aussi proches de zero, considerez l'entier positif comme etant le plus porche de zero(par exemple si `$ints` contient -5 et 5, retournez 5)
+* si `$ints` est vide, retournez 0 (zero)
