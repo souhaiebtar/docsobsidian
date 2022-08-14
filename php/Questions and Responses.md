@@ -113,4 +113,4 @@ quelle est la valeur de la variable $sentence ?
 22. saisissez le nom de la fonction qui convertit tous les caractères éligibles  en entités HTML (par exemple pour  transformer  © en @copy;)
 * htmlentities
 
-23. 
+23. quel est la fonction  qui test la fin d'un fichier sur un pointeur de fichier ?
