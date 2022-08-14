@@ -312,4 +312,26 @@ function convertToInteger(strings) {
 }
 ```
 
-33. 
+33. fonction
+![[Pasted image 20220814185157.png]]
+
+```javascript
+function magic(stones) {
+	stones = stones.sort()
+	
+	index = 0
+	
+	while(index <stones.length) {
+	  
+	  if (stones[index] == stones[index+1]) {
+	    stones.splice(index+1,1)
+	    stones[index]++
+	    stones = stones.sort()
+	  } else {
+	    index++
+	  }	  
+	}
+
+return stones.length;
+}
+```
