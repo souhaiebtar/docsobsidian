@@ -303,4 +303,6 @@ obj = new MyClass()
 
 32. la fonction Javascript qui vous est presentee contient un bug. votre objectif est de le trouver et de le corriger.
 vous devez implementer la fonction `convertToIntegers()` qui prend en parametre un tableau de strings. chacune de ces strings represente un entier. la fonction doit donc les parser et retourner la liste de ces entiers.
-Par exemple, convert 
+Par exemple, convertToIntegers(["4","7","12"]) doit retourner [4,7.12].
+Remarque: pour avoir le score maximum, vous devez continuez a utiliser la fonction `Array.map`
+
