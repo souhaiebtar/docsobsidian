@@ -244,6 +244,29 @@ return 'SPECIAL';
 ```
 
 26. ecrivez une fonction calc($array, $n1, $n2) 
-$array est un tableau  d'entiers. les parametres $n1 et $n2 sont des entiers definis par la relation 
-28. en javascript comment declarer une variable ?
+$array est un tableau  d'entiers. les parametres $n1 et $n2 sont des entiers definis par la relation `0 <= $n1 <= $n2 < count($array)`
+
+la fonction `calc` doit retourner la somme des entiersde `$array` dont l'index appartient a l'intervalle `[$n1,$n2]`
+
+Solution:
+```PHP
+function calc($array, $n1, $n2) {
+
+$sum = 0;
+
+for($x = $n1; $x <=$n2; $x++) {
+
+$sum += $array[$x];
+
+}
+
+  
+
+return $sum;
+
+}
+```
+
+27. en javascript comment declarer une variable ?
 var x = 7;
+
