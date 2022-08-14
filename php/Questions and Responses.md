@@ -114,3 +114,5 @@ quelle est la valeur de la variable $sentence ?
 * htmlentities
 
 23. quel est la fonction  qui test la fin d'un fichier sur un pointeur de fichier ?
+* feof
+24. 
