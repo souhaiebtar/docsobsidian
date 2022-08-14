@@ -110,4 +110,7 @@ quelle est la valeur de la variable $sentence ?
 * is_real
 * getsize (thre correct response)
 
-22. saisissez le nom de la fonction qui convertit tous les caractères éligibles  en entités
+22. saisissez le nom de la fonction qui convertit tous les caractères éligibles  en entités HTML (par exemple pour  transformer  © en @copy;)
+* htmlentities
+
+23. 
