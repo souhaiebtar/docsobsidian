@@ -89,4 +89,19 @@ quel serait le resultat si la fonction `setName` etait appelee sans fournir d'ar
 
 *  la fonction retrournerait la valuer 'John Doe'
 
-19. 
+19. `<?= $a ?>` est un raccourci pour ...
+* `<?php echo $a; ?>`
+
+20. le code
+```PHP
+$a = 4;
+$b = 10;
+
+$sentence = "There are ".$a++." cakes for ".++$b." people.";
+```
+
+quelle est la valeur de la variable $sentence ?
+
+`There are 4 cakes for 11 people.`
+
+2
