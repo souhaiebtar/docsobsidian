@@ -300,3 +300,7 @@ obj = new MyClass()
 `obj.a` s'evalue `hello`
 `obj.b` s'evalue `world`
 `obj.c` s'evalue `12`
+
+32. la fonction Javascript qui vous est presentee contient un bug. votre objectif est de le trouver et de le corriger.
+vous devez implementer la fonction `convertToIntegers()` qui prend en parametre un tableau de strings. chacune de ces strings represente un entier. la fonction doit donc les parser et retourner la liste de ces entiers.
+Par exemple, convert 
