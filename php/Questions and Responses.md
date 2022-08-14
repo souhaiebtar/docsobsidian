@@ -118,3 +118,50 @@ quelle est la valeur de la variable $sentence ?
 24. implementez la fonction `closestToZero`  pour renvoyer  l'entier  du tableau `$ints` le plus proche de zéro.
 *  s'il y a deux entiers tout aussi proches de zero, considerez l'entier positif comme etant le plus porche de zero(par exemple si `$ints` contient -5 et 5, retournez 5)
 * si `$ints` est vide, retournez 0 (zero)
+Donnees: les entiers dans $ints ont des valeurs 
+
+**Solution:**
+
+```PHP
+function closestToZero($ints) {
+
+  
+
+if (!count($ints)) {
+
+return 0;
+
+}
+
+  
+
+sort($ints);
+
+  
+
+foreach($ints as $x) {
+
+$intgersAbs[] = abs($x);
+
+}
+
+  
+  
+
+$index = array_search(min($intgersAbs), $intgersAbs);
+
+  
+
+if ($ints[$index] === $ints[$index+1] * -1) {
+
+return $ints[$index+1];
+
+} else {
+
+return $ints[$index];
+
+}
+
+}
+```
+
