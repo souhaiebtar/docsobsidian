@@ -286,6 +286,13 @@ reponse: a = a.concat(b);
 
 31. Soit un objet `obj` defini par le code:
 ```PHP
-MyClass
+MyClass = function() {
+	this.a = 'hello'
+	this.b = 'world'
+}
 
+MyClass.prototype.a = 'john'
+MyClass.prototype.c = 12
+
+obj = new MyClass()
 ```
