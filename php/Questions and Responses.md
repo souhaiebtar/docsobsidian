@@ -306,3 +306,10 @@ vous devez implementer la fonction `convertToIntegers()` qui prend en parametre 
 Par exemple, convertToIntegers(["4","7","12"]) doit retourner [4,7.12].
 Remarque: pour avoir le score maximum, vous devez continuez a utiliser la fonction `Array.map`
 
+```javascript
+function convertToInteger(strings) {
+	return strings.map(x => parseInt(x))
+}
+```
+
+33. 
