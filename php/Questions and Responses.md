@@ -273,4 +273,8 @@ var x = 7;
 28. en javascript `isNAN()` est une fonction permettant d'evaluer si une valeur donnee:
 * n'est pas un nombre 
 
-29. 
+29. En javascript, laquelle de ces expressions de declaration de fonction est invalide ?
+* `var add(x,y)=return x+y`  // celle est invalide
+* `var add = (x,y)=> x+y`
+* `function add(x,y){return x+y}`
+* `var add = function(x,y) {return x+y}`
