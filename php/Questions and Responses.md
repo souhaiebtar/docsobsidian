@@ -243,3 +243,7 @@ return 'SPECIAL';
 }
 ```
 
+26. ecrivez une fonction calc($array, $n1, $n2) 
+$array est un tableau  d'entiers. les parametres $n1 et $n2 sont des entiers definis par la relation 
+28. en javascript comment declarer une variable ?
+var x = 7;
