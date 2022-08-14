@@ -76,4 +76,17 @@ elle indique au demon docke que le container sera a a l'ecoute d'un port donne
 * Ajouter 1 maitre et 2 esclaves (generalement lors de l'ajout on ajoute plus d'esclave que de maitre)
 
 17. les abstractions ne doivent pas dependre de details. les details doivent dependre d'abstractions.
-* *
+* vrai
+
+18. la fonction
+```PHP
+function setName( $name = 'John Doe' ){
+	return $name;
+}
+```
+
+quel serait le resultat si la fonction `setName` etait appelee sans fournir d'argument?
+
+*  la fonction retrournerait la valuer 'John Doe'
+
+19. 
