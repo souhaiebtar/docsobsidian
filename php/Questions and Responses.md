@@ -279,4 +279,9 @@ var x = 7;
 * `function add(x,y){return x+y}`
 * `var add = function(x,y) {return x+y}`
 
-30. 
+30. quel  devez-vous ajouter apres les deux lignes suivantes pour que le tableau A contienne une concatenation du tableau A et B ?
+var a = [1,2,3];
+var b = [4,5,6];
+reponse: a = a.concat(b);
+
+31. 
