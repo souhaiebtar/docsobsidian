@@ -296,3 +296,7 @@ MyClass.prototype.c = 12
 
 obj = new MyClass()
 ```
+
+`obj.a` s'evalue `hello`
+`obj.b` s'evalue `world`
+`obj.c` s'evalue `12`
