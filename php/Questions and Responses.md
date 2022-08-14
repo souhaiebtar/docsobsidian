@@ -284,4 +284,8 @@ var a = [1,2,3];
 var b = [4,5,6];
 reponse: a = a.concat(b);
 
-31. 
+31. Soit un objet `obj` defini par le code:
+```PHP
+MyClass
+
+```
