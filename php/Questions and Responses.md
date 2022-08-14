@@ -270,3 +270,7 @@ return $sum;
 27. en javascript comment declarer une variable ?
 var x = 7;
 
+28. en javascript `isNAN()` est une fonction permettant d'evaluer si une valeur donnee:
+* n'est pas un nombre 
+
+29. 
