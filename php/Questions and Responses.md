@@ -170,3 +170,76 @@ return $ints[$index];
 ![[Pasted image 20220814155259.png]]
 
 Solutions:
+
+```PHP
+function isLourd($mass) {
+
+if ($mass > 20) {
+
+return true;
+
+}
+
+return false;
+
+}
+
+  
+
+function isEncombrant($width, $height, $length) {
+
+if (
+
+($width * $height * $length >= 1000000) ||
+
+(
+
+$width > 150 || $height > 150 || $length > 150
+
+)
+
+) {
+
+return true;
+
+}
+
+  
+
+return false;
+
+}
+
+  
+
+function solve($width, $height, $length, $mass) {
+
+if (
+
+!isLourd($mass) && !isEncombrant($width,$height,$length)
+
+) {
+
+return 'STANDARD';
+
+}
+
+  
+
+if (
+
+isLourd($mass) && isEncombrant($width, $height, $length)
+
+) {
+
+return 'REJECTED';
+
+}
+
+  
+
+return 'SPECIAL';
+
+}
+```
+
