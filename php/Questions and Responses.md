@@ -115,4 +115,4 @@ quelle est la valeur de la variable $sentence ?
 
 23. quel est la fonction  qui test la fin d'un fichier sur un pointeur de fichier ?
 * feof
-24. 
+24. imple
