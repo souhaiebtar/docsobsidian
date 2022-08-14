@@ -165,3 +165,8 @@ return $ints[$index];
 }
 ```
 
+25. probleme:
+
+![[Pasted image 20220814155259.png]]
+
+Solutions:
