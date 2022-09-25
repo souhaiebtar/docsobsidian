@@ -6,6 +6,7 @@ server S3 51.255.81.27 - ns3035729.ip-51-255-81.eu - spec: Xeon D1540 - 32GB DDR
 
 
 92.222.156.231 FR ip231.ip-92-222-156.eu. 02:00:00:36:bf:3d vmName=ubuntu22
+4 cpu 4GB- /media/part1disk1/ubuntu22.qcow2
 
 ----
  
