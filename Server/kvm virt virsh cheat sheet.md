@@ -20,10 +20,10 @@ virsh suspend vmName;
 
 virsh resume vmName;
 
-virsh shutdown rockylinux9 && virsh start rockylinux9
+virsh shutdown rockylinux9 && virsh start rockylinux9 // restart machine
   
 
-virsh destroy vmName && virsh undefine vmName && rm -f /var/lib/libvirt/images/ubuntu2004.qcow2
+virsh destroy vmName && virsh undefine vmName && rm -f /var/lib/libvirt/images/ubuntu2004.qcow2 //remove vm and remove qcow2 file
 
 ---
 
