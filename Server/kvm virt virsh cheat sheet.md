@@ -32,7 +32,7 @@ virt-edit /media/part1disk1/ubuntu22Inst2.qcow /etc/netplan/00-installer-config.
 import image
 
 ```
-sudo virt-install --virt-type=kvm --name=ubuntu22Inst2 --ram=4048 --vcpus=2 --os-variant=ubuntu20.04 --virt-type=kvm --hvm --network type=direct,mac=02:00:00:e0:a1:94,source=eno3,source_mode=bridge,model=rtl8139,address.type=pci,address.domain=0,address.bus=0,address.slot=9,address.function=0 --graphics vnc --disk path=/media/part1disk1/ubuntu22Inst2.qcow --import
+sudo virt-install --virt-type=kvm --name=ubuntu22Inst2 --ram=4048 --vcpus=2 --os-variant=ubuntu20.04 --virt-type=kvm --hvm --network type=direct,mac=02:00:00:e0:a1:94,source=eno3,source_mode=bridge,model=rtl8139,address.type=pci,address.domain=0,address.bus=0,address.slot=9,address.function=0 --graphics vnc --disk path=/media/part1disk1/ubuntu22Inst2.qcow --import --noautoconsole
 ```
 
 install from image
