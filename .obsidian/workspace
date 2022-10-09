@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Server/k3s installation and initialization.md",
+            "file": "Terminology.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/k3s installation and initialization.md",
+                "file": "Terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "be4823f74cebcd18",
   "lastOpenFiles": [
-    "Server/kvm virt virsh cheat sheet.md",
+    "php/composer.md",
+    "php/Questions and Responses.md",
+    "php/php projects.md",
     "Server/k3s installation and initialization.md",
+    "Server/kvm virt virsh cheat sheet.md",
     "Server/MyServers.md",
     "Server/installing an iso image on ovh _ soyoustart dedicated server _ nicolas busseneau.pdf",
     "Server/SelfHosted VPN.md",
-    "php/Questions and Responses.md",
-    "php/php projects.md",
     "php/design partterns article and.md",
-    "php/create framework.md",
-    "php/composer.md"
+    "php/create framework.md"
   ]
 }
