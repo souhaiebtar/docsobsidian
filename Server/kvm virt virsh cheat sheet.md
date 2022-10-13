@@ -1,4 +1,4 @@
-v#kvm #linux #virtualization
+	v#kvm #linux #virtualization
 virsh list --all //list vm running
 
   
