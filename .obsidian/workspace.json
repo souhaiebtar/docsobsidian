@@ -23,9 +23,11 @@
             "id": "8b3a20e5c11a0593",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.0"
+                "file": "Server/MyServers.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
