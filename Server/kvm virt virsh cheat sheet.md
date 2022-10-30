@@ -27,7 +27,9 @@ virsh destroy vmName && virsh undefine vmName && rm -f /var/lib/libvirt/images/u
 
 ---
 
-virt-edit /media/part1disk1/ubuntu22Inst2.qcow /etc/netplan/00-installer-config.yaml
+virsh shutdown ubuntu22Inst2 && virt-edit /media/part1disk1/ubuntu22Inst2.qcow /etc/netplan/00-installer-config.yaml  //edit file in vm
+
+virsh edit ubuntu22Inst2 // edit vm config in text editor (shutdown machine before and than start after finishing editing)
 
 import image
 
