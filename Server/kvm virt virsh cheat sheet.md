@@ -41,3 +41,4 @@ install from image
 sudo virt-install --virt-type=kvm --name=ubuntu22 --ram=8048 --vcpus=6 --os-variant=ubuntu18.04 --virt-type=kvm --hvm --cdrom=/var/lib/libvirt/images/ubuntu-22.04-live-server-amd64.iso --network type=direct,mac=02:00:00:36:bf:3d,source=eno3,source_mode=bridge,model=rtl8139,address.type=pci,address.domain=0,address.bus=0,address.slot=9,address.function=0 --graphics vnc --disk path=/media/part1disk1/ubuntu22.qcow2,size=60,bus=virtio,format=qcow2
 ```
 
+[1]: https://docs.ovh.com/us/en/dedicated/network-bridging/
