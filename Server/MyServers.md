@@ -35,3 +35,5 @@ ubuntu22k3s  *.k3s.souhaieb.monster
 |ubuntu22v3|51.254.224.113|02:00:00:af:7f:79|`library.souhaiebtarhouni.xyz`|
 |ubuntu22v2|51.254.224.112|02:00:00:e0:a1:94|`vpn.tsouhaieb.xyz`|
 
+test
+
