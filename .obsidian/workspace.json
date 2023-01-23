@@ -11,22 +11,15 @@
             "id": "0eebdaee5fffef5d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4776a4b27997aa8f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "Server/MyServers.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Server/MyServers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +115,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4776a4b27997aa8f",
+  "active": "0eebdaee5fffef5d",
   "lastOpenFiles": [
     "Server/MyServers.md",
     "Server/SelfHosted VPN.md",
