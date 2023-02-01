@@ -8,7 +8,7 @@ Virsh commands
 
 virsh domiflist vmname // get mac address
 
-virsh domblklist vmname
+virsh domblklist vmname // get vm file location
 
 virsh dominfo vmName
 
