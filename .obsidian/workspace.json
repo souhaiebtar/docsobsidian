@@ -13,21 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/kvm virt virsh cheat sheet.md",
+                "file": "Server/True nas scale.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
           {
-            "id": "cdd96e04e2c7c7b5",
+            "id": "413e94ab30ae815f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "selfhosted/webUI for vps for management.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#web",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,17 +129,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cdd96e04e2c7c7b5",
+  "active": "982b7a0a8d825e09",
   "lastOpenFiles": [
+    "Server/True nas scale.md",
+    "selfhosted/webUI for vps for management.md",
+    "Server/kvm virt virsh cheat sheet.md",
+    "Untitled.canvas",
+    "Server/k3s installation and initialization.md",
+    "Server/installing an iso image on ovh _ soyoustart dedicated server _ nicolas busseneau.pdf",
     "Server/SelfHosted VPN.md",
     "php/Questions and Responses.md",
-    "selfhosted/webUI for vps for management.md",
     "Automation/Ansible/Ansible cheat sheet.md",
-    "php/create framework.md",
-    "php/composer.md",
-    "Server/kvm virt virsh cheat sheet.md",
-    "Server/k3s installation and initialization.md",
-    "Server/MyServers.md",
-    "Automation/Ansible.md"
+    "php/create framework.md"
   ]
 }

@@ -1,3 +1,4 @@
+#web #selfhosted
 
 andreapollastri/cipi
 

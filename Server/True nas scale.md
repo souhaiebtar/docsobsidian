@@ -1,4 +1,4 @@
-#kvm #server #linux
+#kvm #server #linux 
 https://www.youtube.com/watch?v=C-UI8Wvl9YU TrueNAS Scale - Your New Hypervisor/NAS OS
 
 https://www.youtube.com/watch?v=edJiWFn5ua8 TrueNAS SCALE - Configuring Media Downloading
