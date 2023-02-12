@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/devops terminology.md",
+                "file": "Programming/Dev Terminology.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/devops terminology.md",
+                "file": "Programming/Dev Terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +170,7 @@
   },
   "active": "994d7e53fa25d16e",
   "lastOpenFiles": [
+    "Programming/devops terminology.md",
     "Programming/Dev Terminology.md",
     "Programming/website for developer.md",
     "Untitled.canvas",
@@ -178,7 +179,6 @@
     "php/Symfony.md",
     "selfhosted/webUI for vps for management.md",
     "php/Questions and Responses.md",
-    "php/php projects.md",
-    "web/clean code - refactoring.md"
+    "php/php projects.md"
   ]
 }
