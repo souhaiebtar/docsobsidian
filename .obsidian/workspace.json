@@ -46,9 +46,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "39a969ffcf8640cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/website for developer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Terminology.md",
+                "file": "Programming/website for developer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,8 +156,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ef3f85387d03d71d",
+  "active": "39a969ffcf8640cc",
   "lastOpenFiles": [
+    "Programming/Terminology.md",
     "Untitled.canvas",
     "hobby project stuff.md",
     "Server/MyServers.md",
@@ -154,7 +167,6 @@
     "php/Questions and Responses.md",
     "php/php projects.md",
     "web/clean code - refactoring.md",
-    "web/rest api.md",
-    "Server/True nas scale.md"
+    "web/rest api.md"
   ]
 }
