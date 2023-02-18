@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Dev Terminology.md",
+                "file": "php/Symfony.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Dev Terminology.md",
+                "file": "php/Symfony.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,15 +170,15 @@
   },
   "active": "994d7e53fa25d16e",
   "lastOpenFiles": [
-    "Programming/devops terminology.md",
+    "php/Questions and Responses.md",
+    "php/php projects.md",
+    "php/design partterns article and.md",
+    "php/create framework.md",
+    "php/composer.md",
     "Programming/Dev Terminology.md",
+    "Programming/devops terminology.md",
     "Programming/website for developer.md",
     "Untitled.canvas",
-    "hobby project stuff.md",
-    "Server/MyServers.md",
-    "php/Symfony.md",
-    "selfhosted/webUI for vps for management.md",
-    "php/Questions and Responses.md",
-    "php/php projects.md"
+    "hobby project stuff.md"
   ]
 }
