@@ -149,7 +149,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "k8s and containers/terminology.md",
+                "file": "k8s and containers/website links.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "k8s and containers/terminology.md",
+                "file": "k8s and containers/website links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,9 +255,9 @@
   "active": "9b52e629107e4ceb",
   "lastOpenFiles": [
     "k8s and containers/tools ide.md",
-    "k8s and containers/website links.md",
-    "k8s and containers/links.md",
     "k8s and containers/terminology.md",
+    "k8s and containers/links.md",
+    "k8s and containers/website links.md",
     "Articles.md",
     "Untitled.md",
     "php/video.md",
