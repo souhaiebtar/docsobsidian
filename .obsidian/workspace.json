@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "k8s/tools ide.md",
+                "file": "k8s and containers/tools ide.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,9 +118,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d0174f8c7242887",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "k8s and containers/terminology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b790f63508557060",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "k8s and containers/links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -178,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles.md",
+                "file": "k8s and containers/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,17 +240,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "13a1ba66e560fd96",
+  "active": "b790f63508557060",
   "lastOpenFiles": [
+    "k8s and containers/terminology.md",
+    "Articles.md",
     "Untitled.md",
-    "k8s/tools ide.md",
+    "k8s and containers/tools ide.md",
     "php/video.md",
     "php/Symfony.md",
     "php/Questions and Responses.md",
     "php/php projects.md",
     "php/design partterns article and.md",
-    "php/create framework.md",
-    "php/composer.md",
-    "Programming/Dev Terminology.md"
+    "php/create framework.md"
   ]
 }
