@@ -70,9 +70,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "62172e37b788e245",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "php/video.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "php/Symfony.md",
+                "file": "php/video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,8 +180,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "994d7e53fa25d16e",
+  "active": "62172e37b788e245",
   "lastOpenFiles": [
+    "php/Symfony.md",
     "php/Questions and Responses.md",
     "php/php projects.md",
     "php/design partterns article and.md",
@@ -178,7 +191,6 @@
     "Programming/Dev Terminology.md",
     "Programming/devops terminology.md",
     "Programming/website for developer.md",
-    "Untitled.canvas",
-    "hobby project stuff.md"
+    "Untitled.canvas"
   ]
 }
