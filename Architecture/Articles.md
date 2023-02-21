@@ -3,3 +3,4 @@ https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onio
 
 https://www.toptal.com/software/single-responsibility-principle?utm_source=firefox_pocket_save_button
 
+https://lucumr.pocoo.org/2015/4/8/microservices-with-nameko/?utm_source=firefox_pocket_save_button
