@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c7f94d9e1de657c8",
+        "id": "d915b75bba8f9eb1",
         "type": "tabs",
         "children": [
           {
-            "id": "1a78f17f4d5d0362",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Server/cokpit article.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfd9791a003280ae",
+            "id": "0192ddafe4e69112",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "k8s and containers/container security best practise (docker or ...).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,17 +115,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cfd9791a003280ae",
+  "active": "0192ddafe4e69112",
   "lastOpenFiles": [
-    "Server/selfhosted/article self hosted server.md",
+    "[.md",
+    "k8s and containers/container security best practise (docker or ...).md",
     "Server/cokpit article.md",
+    "Server/selfhosted/article self hosted server.md",
     "Server/selfhosted/webUI for vps for management.md",
     "Untitled.canvas",
     "Programming/Dev Terminology.md",
     "php/Symfony.md",
     "php/video.md",
-    "k8s and containers/tools ide.md",
-    "Untitled.md",
-    "Architecture/Articles.md"
+    "k8s and containers/tools ide.md"
   ]
 }
