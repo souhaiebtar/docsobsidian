@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/selfhosted/article self hosted server.md",
+                "file": "k8s and containers/container security best practise (docker or ...).md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/selfhosted/article self hosted server.md",
+                "file": "k8s and containers/container security best practise (docker or ...).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +130,7 @@
   },
   "active": "cfd9791a003280ae",
   "lastOpenFiles": [
+    "Server/selfhosted/article self hosted server.md",
     "Server/cokpit article.md",
     "Server/selfhosted/webUI for vps for management.md",
     "Untitled.canvas",
@@ -138,7 +139,6 @@
     "php/video.md",
     "k8s and containers/tools ide.md",
     "Untitled.md",
-    "Architecture/Articles.md",
-    "k8s and containers/terminology.md"
+    "Architecture/Articles.md"
   ]
 }

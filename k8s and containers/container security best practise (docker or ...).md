@@ -1,7 +1,9 @@
+#container #docker 
+
 ![[Pasted image 20230221010350.png]]
 
 
-keep docker host and container runtime updated
+keep docker host and container runtime updated ()
 docker runtime in non root
 container should run in non privileged mode
 
