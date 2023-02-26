@@ -214,9 +214,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "13caed85ccfdb61e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "general/site important.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -274,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture/Articles.md",
+                "file": "general/site important.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,8 +324,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8dd347da7900e6db",
+  "active": "13caed85ccfdb61e",
   "lastOpenFiles": [
+    "Architecture/Articles.md",
     "Programming/Dev Terminology.md",
     "Programming/devops terminology.md",
     "Programming/website for developer.md",
@@ -322,7 +335,6 @@
     "k8s and containers/container scanning.md",
     "Server/websites.md",
     "selfhosted/self host vscode.md",
-    "k8s and containers/website links.md",
-    "k8s and containers/tools ide.md"
+    "k8s and containers/website links.md"
   ]
 }
