@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/selfhosted/open source cloud storage solutions that can be selfhosted.md",
+                "file": "k8s and containers/container security best practise (docker or ...).md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linux",
+                "query": "conta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,7 +70,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/selfhosted/open source cloud storage solutions that can be selfhosted.md",
+                "file": "k8s and containers/container security best practise (docker or ...).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +131,7 @@
   },
   "active": "9b64713f4912c4cb",
   "lastOpenFiles": [
+    "Server/selfhosted/open source cloud storage solutions that can be selfhosted.md",
     "Linux/linux blog.md",
     "k8s and containers/container security best practise (docker or ...).md",
     "Terminology.md",
@@ -138,7 +140,6 @@
     "Untitled.canvas",
     "Untitled 1.md",
     "Security/security tools.md",
-    "[.md",
-    "Server/cokpit article.md"
+    "[.md"
   ]
 }

@@ -15,6 +15,7 @@ docker read only filesystem and volume
 EXP of minimalist image:
 google distroless
 
+https://almalinux.org/blog/almalinux-container-images-update-full-rhel-ubi-compatibility/
 
 
 
