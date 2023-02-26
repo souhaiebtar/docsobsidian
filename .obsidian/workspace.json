@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/HomeServer Artice.md",
+                "file": "Server/selfhosted/HomeServer Artice (selfhosted).md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/HomeServer Artice.md",
+                "file": "Server/selfhosted/HomeServer Artice (selfhosted).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,6 +154,8 @@
   },
   "active": "c57d064a0d114fa5",
   "lastOpenFiles": [
+    "Server/selfhosted/article self hosted server.md",
+    "Server/selfhosted/HomeServer Artice (selfhosted).md",
     "Terminology.md",
     "linux blog.md",
     "Untitled.canvas",
@@ -161,8 +163,6 @@
     "Security/security tools.md",
     "k8s and containers/container security best practise (docker or ...).md",
     "[.md",
-    "Server/cokpit article.md",
-    "Server/selfhosted/article self hosted server.md",
-    "Server/selfhosted/webUI for vps for management.md"
+    "Server/cokpit article.md"
   ]
 }
