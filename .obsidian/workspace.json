@@ -4,231 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8660e4ade961741e",
+        "id": "c7f94d9e1de657c8",
         "type": "tabs",
         "children": [
           {
-            "id": "c42d8c4c81b32481",
+            "id": "1a78f17f4d5d0362",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "selfhosted/webUI for vps for management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9177619b18a6a017",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "ef3f85387d03d71d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Dev Terminology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39a969ffcf8640cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Dev Terminology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "994d7e53fa25d16e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "php/Symfony.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62172e37b788e245",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "php/video.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2acf4e0dd204c29d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "k8s and containers/tools ide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9c3ce87282a6dca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13a1ba66e560fd96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture/Articles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d0174f8c7242887",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "k8s and containers/terminology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b790f63508557060",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "k8s and containers/tools ide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b52e629107e4ceb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "k8s and containers/website links.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec04607b96cc1c3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "k8s and containers/container security best practise.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd676c943ea1f9ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "selfhosted/self host vscode.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4f219c304017dae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "k8s and containers/container scanning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c643286ccc66ed1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "k8s and containers/container security best practise.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3aa7361cb0ec2be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture/Articles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13caed85ccfdb61e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "general/site important.md",
+                "file": "Server/cokpit article.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 17
+        ]
       }
     ],
     "direction": "vertical"
@@ -286,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "general/site important.md",
+                "file": "Server/cokpit article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,17 +115,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "13caed85ccfdb61e",
+  "active": "1a78f17f4d5d0362",
   "lastOpenFiles": [
-    "Architecture/Articles.md",
+    "Server/cokpit article.md",
+    "Server/selfhosted/webUI for vps for management.md",
+    "Untitled.canvas",
     "Programming/Dev Terminology.md",
-    "Programming/devops terminology.md",
-    "Programming/website for developer.md",
-    "selfhosted/self hosted container related environment.md",
-    "k8s and containers/container security best practise.md",
-    "k8s and containers/container scanning.md",
-    "Server/websites.md",
-    "selfhosted/self host vscode.md",
-    "k8s and containers/website links.md"
+    "php/Symfony.md",
+    "php/video.md",
+    "k8s and containers/tools ide.md",
+    "Untitled.md",
+    "Architecture/Articles.md",
+    "k8s and containers/terminology.md"
   ]
 }
