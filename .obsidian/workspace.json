@@ -13,50 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "k8s and containers/container security best practise (docker or ...).md",
+                "file": "Linux/linux blog.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "27539d00ce240f91",
+            "id": "9b64713f4912c4cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2af75a8c5fa837cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terminology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c57d064a0d114fa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Server/selfhosted/HomeServer Artice (selfhosted).md",
+                "file": "Server/selfhosted/open source cloud storage solutions that can be selfhosted.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,10 +61,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "linux",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -114,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/selfhosted/HomeServer Artice (selfhosted).md",
+                "file": "Server/selfhosted/open source cloud storage solutions that can be selfhosted.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,16 +128,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c57d064a0d114fa5",
+  "active": "9b64713f4912c4cb",
   "lastOpenFiles": [
-    "Server/selfhosted/article self hosted server.md",
-    "Server/selfhosted/HomeServer Artice (selfhosted).md",
+    "Linux/linux blog.md",
+    "k8s and containers/container security best practise (docker or ...).md",
     "Terminology.md",
-    "linux blog.md",
+    "Server/selfhosted/HomeServer Artice (selfhosted).md",
+    "Server/selfhosted/article self hosted server.md",
     "Untitled.canvas",
     "Untitled 1.md",
     "Security/security tools.md",
-    "k8s and containers/container security best practise (docker or ...).md",
     "[.md",
     "Server/cokpit article.md"
   ]
