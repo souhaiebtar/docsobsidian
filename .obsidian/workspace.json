@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cfd9791a003280ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server/selfhosted/article self hosted server.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/cokpit article.md",
+                "file": "Server/selfhosted/article self hosted server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1a78f17f4d5d0362",
+  "active": "cfd9791a003280ae",
   "lastOpenFiles": [
     "Server/cokpit article.md",
     "Server/selfhosted/webUI for vps for management.md",
