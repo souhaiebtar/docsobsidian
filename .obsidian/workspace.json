@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a6a94bfa8ca573f7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,7 +150,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a9cb116813761cc5",
+  "active": "a6a94bfa8ca573f7",
   "lastOpenFiles": [
     "Terminology.md",
     "k8s and containers/tools.md",
