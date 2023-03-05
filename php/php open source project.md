@@ -15,3 +15,5 @@ https://github.com/caprover/caprover
 https://github.com/coollabsio/coolify
 
 https://github.com/RainLoop/rainloop-webmail
+
+https://github.com/salesagility/SuiteCRM
