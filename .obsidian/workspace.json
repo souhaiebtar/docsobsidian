@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/selfhosted/self hosted coding environment.md",
+                "file": "php/php open source project.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "814905d41c439659",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "php/laravel open source project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cde",
+                "query": "mail",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -126,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "php/laravel open source project.md",
+                "file": "php/php open source project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,10 +152,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "814905d41c439659",
+  "active": "a9cb116813761cc5",
   "lastOpenFiles": [
+    "Server/selfhosted/self hosted coding environment.md",
     "Linux/linux blog.md",
-    "php/laravel open source project.md",
+    "php/Questions and Responses.md",
+    "php/php open source project.md",
     "Terminology.md",
     "k8s and containers/tools.md",
     "k8s and containers/container security best practise (docker or ...).md",
