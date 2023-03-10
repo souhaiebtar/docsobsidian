@@ -17,3 +17,8 @@ https://github.com/coollabsio/coolify
 https://github.com/RainLoop/rainloop-webmail
 
 https://github.com/salesagility/SuiteCRM
+
+https://github.com/shopware/shopware
+
+https://github.com/snipe/snipe-it
+
