@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "php/php blog-site.md",
+                "file": "Linux/linux blog.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mail",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "php/php blog-site.md",
+                "file": "Linux/linux blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,10 +210,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "56e59ecb63f77e2e",
+  "active": "8dd347da7900e6db",
   "lastOpenFiles": [
-    "php/Symfony.md",
     "php/php blog-site.md",
+    "php/Symfony.md",
     "php/php open source project.md",
     "php/orm doctrine alternative.md",
     "Server/selfhosted/mail server.md",
