@@ -100,9 +100,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "56e59ecb63f77e2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "php/php blog-site.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -160,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "php/php open source project.md",
+                "file": "php/php blog-site.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,8 +210,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e131808d57e80a3d",
+  "active": "56e59ecb63f77e2e",
   "lastOpenFiles": [
+    "php/Symfony.md",
+    "php/php blog-site.md",
     "php/php open source project.md",
     "php/orm doctrine alternative.md",
     "Server/selfhosted/mail server.md",
