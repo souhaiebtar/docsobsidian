@@ -11,3 +11,7 @@ https://www.digitalocean.com/community/pages/kubernetes-challenge
 
 https://www.youtube.com/watch?v=z-VzqL4JxM4
 
+https://freemagazines.top/internet-security-programmation
+
+
+https://www.youtube.com/watch?v=eojWaJQvqiw
