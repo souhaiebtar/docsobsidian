@@ -119,14 +119,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/linux blog.md",
+                "file": "Server/MyServers.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8df1077496b25ce",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -184,7 +192,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/linux blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,11 +229,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b5b2896140e9e2fd",
+  "active": "a8df1077496b25ce",
   "lastOpenFiles": [
+    "Server/MyServers.md",
+    "Server/kvm virt virsh cheat sheet.md",
+    "Server/selfhosted/self host vscode.md",
+    "Linux/linux blog.md",
     "Server/domain selling.md",
     "TMP stuff.md",
-    "Linux/linux blog.md",
     "php/php blog-site.md",
     "php/Symfony.md",
     "php/php open source project.md",
