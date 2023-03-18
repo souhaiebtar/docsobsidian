@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/domain selling.md",
+                "file": "Linux/linux blog.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,8 +164,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/domain selling.md",
+                "file": "Linux/linux blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,8 +224,8 @@
   },
   "active": "b5b2896140e9e2fd",
   "lastOpenFiles": [
-    "TMP stuff.md",
     "Server/domain selling.md",
+    "TMP stuff.md",
     "Linux/linux blog.md",
     "php/php blog-site.md",
     "php/Symfony.md",
