@@ -132,9 +132,17 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "3035c48d13d73fc9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -229,7 +237,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1c9877fe01a89811",
+  "active": "3035c48d13d73fc9",
   "lastOpenFiles": [
     "Server/MyServers.md",
     "Server/kvm virt virsh cheat sheet.md",
