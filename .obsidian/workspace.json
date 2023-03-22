@@ -137,8 +137,12 @@
             "id": "3035c48d13d73fc9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Server/selfhosted/webUI for vps for management.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -200,6 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Server/selfhosted/webUI for vps for management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
