@@ -38,5 +38,5 @@ ubuntu22k3s  *.k3s.souhaieb.monster
 
 
 
-test
+
 
