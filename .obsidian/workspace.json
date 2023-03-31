@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/linux blog.md",
+                "file": "TMP stuff.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,8 +184,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/linux blog.md",
+                "file": "TMP stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,12 +244,12 @@
   },
   "active": "3035c48d13d73fc9",
   "lastOpenFiles": [
+    "Linux/linux blog.md",
     "Server/websites.md",
     "Server/MyServers.md",
     "Server/kvm virt virsh cheat sheet.md",
     "Server/selfhosted/webUI for vps for management.md",
     "Server/selfhosted/self host vscode.md",
-    "Linux/linux blog.md",
     "Server/domain selling.md",
     "TMP stuff.md",
     "php/php blog-site.md",
