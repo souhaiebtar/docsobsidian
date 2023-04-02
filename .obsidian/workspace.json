@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "php/php open source project.md",
+                "file": "TMP stuff.md",
                 "mode": "source",
                 "source": false
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "caprover",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -184,8 +184,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "php/php open source project.md",
+                "file": "TMP stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,8 +244,8 @@
   },
   "active": "3035c48d13d73fc9",
   "lastOpenFiles": [
-    "php/orm doctrine alternative.md",
     "php/php open source project.md",
+    "php/orm doctrine alternative.md",
     "TMP stuff.md",
     "Linux/linux blog.md",
     "Server/websites.md",
