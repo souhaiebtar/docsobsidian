@@ -18,3 +18,9 @@ https://www.youtube.com/watch?v=eojWaJQvqiw
 
 https://www.libhunt.com/r/caprover
 
+https://coderprog.com/
+
+https://annas-archive.org/
+
+https://devurls.com/
+
