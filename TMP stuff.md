@@ -26,3 +26,6 @@ https://devurls.com/
 
 
 hardware haven youtube
+
+https://www.youtube.com/@AwesomeOpenSource
+
