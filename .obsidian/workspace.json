@@ -144,9 +144,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f323a87e8cd02a5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -182,6 +192,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "dfd9425aa4857733",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -242,7 +260,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3035c48d13d73fc9",
+  "active": "0f323a87e8cd02a5",
   "lastOpenFiles": [
     "Terminology.md",
     "k8s and containers/tools.md",
