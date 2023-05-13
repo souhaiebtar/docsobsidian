@@ -159,9 +159,11 @@
             "id": "fec7269e5247b3e6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.8"
+                "file": "Server/selfhosted/webUI for vps for management.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -232,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TMP stuff.md",
+                "file": "Server/selfhosted/webUI for vps for management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,6 +274,7 @@
   },
   "active": "fec7269e5247b3e6",
   "lastOpenFiles": [
+    "Server/selfhosted/SelfHosted VPN.md",
     "Terminology.md",
     "k8s and containers/tools.md",
     "k8s and containers/website links.md",
