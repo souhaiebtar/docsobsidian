@@ -31,9 +31,9 @@ ubuntu22k3s  *.k3s.souhaieb.monster
 | vmName | ip | mac|website|
 |--------|----|----|-----|
 |ubuntu22|92.222.156.231|02:00:00:36:bf:3d|`vpn.souhaiebtar.xyz`|
-|ubuntu22k3s|52.254.224.114|02:00:00:50:02:99|`*k3s.souhaieb.monster`|
-|ubuntu22v3|51.254.224.113|02:00:00:af:7f:79|`library.souhaiebtarhouni.xyz`|
-|ubuntu22v2|51.254.224.112|02:00:00:e0:a1:94|`vpn.tsouhaieb.xyz`|
+|ubuntu22k3s|52.254.224.114|02:00:00:50:02:99|`*k3s.souhaieb.monster` , `https://rancher-logo.k3s.souhaieb.monster/`|
+|ubuntu22v3|51.254.224.113|02:00:00:af:7f:79|`xxxxxx`|
+|ubuntu22v2|51.254.224.112|02:00:00:e0:a1:94|`xxxxxx`|
 |----|51.254.224.115|02:00:00:63:c4:ff|---|
 
 
