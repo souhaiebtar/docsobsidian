@@ -161,7 +161,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/selfhosted/webUI for vps for management.md",
+                "file": "Server/MyServers.md",
                 "mode": "source",
                 "source": false
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/selfhosted/webUI for vps for management.md",
+                "file": "Server/MyServers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,21 +274,23 @@
   },
   "active": "fec7269e5247b3e6",
   "lastOpenFiles": [
+    "Server/k3s installation and initialization.md",
+    "Server/kvm virt virsh cheat sheet.md",
+    "Server/installing an iso image on ovh _ soyoustart dedicated server _ nicolas busseneau.pdf",
+    "Server/domain selling.md",
+    "Server/MyServers.md",
+    "Server/True nas scale.md",
+    "Server/selfhosted/webUI for vps for management.md",
     "Server/selfhosted/SelfHosted VPN.md",
     "Terminology.md",
     "k8s and containers/tools.md",
     "k8s and containers/website links.md",
     "TMP stuff.md",
-    "Server/MyServers.md",
-    "Server/True nas scale.md",
-    "Server/kvm virt virsh cheat sheet.md",
     "php/php open source project.md",
     "php/orm doctrine alternative.md",
     "Linux/linux blog.md",
     "Server/websites.md",
-    "Server/selfhosted/webUI for vps for management.md",
     "Server/selfhosted/self host vscode.md",
-    "Server/domain selling.md",
     "php/php blog-site.md",
     "php/Symfony.md",
     "Server/selfhosted/mail server.md",
@@ -298,8 +300,6 @@
     "Server/selfhosted/open source cloud storage solutions that can be selfhosted.md",
     "Server/selfhosted/HomeServer Artice (selfhosted).md",
     "Server/selfhosted/article self hosted server.md",
-    "Untitled.canvas",
-    "Untitled 1.md",
-    "Security/security tools.md"
+    "Untitled.canvas"
   ]
 }
