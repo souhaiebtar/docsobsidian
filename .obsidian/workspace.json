@@ -146,16 +146,6 @@
             }
           },
           {
-            "id": "0f323a87e8cd02a5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
-          },
-          {
             "id": "fec7269e5247b3e6",
             "type": "leaf",
             "state": {
@@ -168,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -197,7 +187,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "porkbun",
+                "query": "openlite",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -273,20 +263,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fec7269e5247b3e6",
+  "active": "982b7a0a8d825e09",
   "lastOpenFiles": [
+    "TMP stuff.md",
+    "Server/domain selling.md",
     "Server/MyServers.md",
     "Server/k3s installation and initialization.md",
     "Server/kvm virt virsh cheat sheet.md",
     "Server/installing an iso image on ovh _ soyoustart dedicated server _ nicolas busseneau.pdf",
-    "Server/domain selling.md",
     "Server/True nas scale.md",
     "Server/selfhosted/webUI for vps for management.md",
     "Server/selfhosted/SelfHosted VPN.md",
     "Terminology.md",
     "k8s and containers/tools.md",
     "k8s and containers/website links.md",
-    "TMP stuff.md",
     "php/php open source project.md",
     "php/orm doctrine alternative.md",
     "Linux/linux blog.md",
