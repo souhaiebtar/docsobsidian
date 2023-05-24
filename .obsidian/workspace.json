@@ -151,7 +151,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/domain selling.md",
+                "file": "Server/selfhosted/self hosted coding environment.md",
                 "mode": "source",
                 "source": false
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "openlite",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,8 +204,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/domain selling.md",
+                "file": "Server/selfhosted/self hosted coding environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,10 +262,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "982b7a0a8d825e09",
+  "active": "fec7269e5247b3e6",
   "lastOpenFiles": [
-    "TMP stuff.md",
+    "Server/selfhosted/self host vscode.md",
+    "Server/selfhosted/open source cloud storage solutions that can be selfhosted.md",
+    "Server/selfhosted/HomeServer Artice (selfhosted).md",
+    "Server/selfhosted/mail server.md",
     "Server/domain selling.md",
+    "Linux/linux blog.md",
+    "TMP stuff.md",
     "Server/MyServers.md",
     "Server/k3s installation and initialization.md",
     "Server/kvm virt virsh cheat sheet.md",
@@ -279,17 +283,12 @@
     "k8s and containers/website links.md",
     "php/php open source project.md",
     "php/orm doctrine alternative.md",
-    "Linux/linux blog.md",
     "Server/websites.md",
-    "Server/selfhosted/self host vscode.md",
     "php/php blog-site.md",
     "php/Symfony.md",
-    "Server/selfhosted/mail server.md",
     "Server/selfhosted/self hosted coding environment.md",
     "php/Questions and Responses.md",
     "k8s and containers/container security best practise (docker or ...).md",
-    "Server/selfhosted/open source cloud storage solutions that can be selfhosted.md",
-    "Server/selfhosted/HomeServer Artice (selfhosted).md",
     "Server/selfhosted/article self hosted server.md",
     "Untitled.canvas"
   ]
