@@ -151,7 +151,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/selfhosted/self hosted coding environment.md",
+                "file": "Server/MyServers.md",
                 "mode": "source",
                 "source": false
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/selfhosted/self hosted coding environment.md",
+                "file": "Server/MyServers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,6 +264,7 @@
   },
   "active": "fec7269e5247b3e6",
   "lastOpenFiles": [
+    "Server/selfhosted/self hosted coding environment.md",
     "Server/selfhosted/self host vscode.md",
     "Server/selfhosted/open source cloud storage solutions that can be selfhosted.md",
     "Server/selfhosted/HomeServer Artice (selfhosted).md",
@@ -286,7 +287,6 @@
     "Server/websites.md",
     "php/php blog-site.md",
     "php/Symfony.md",
-    "Server/selfhosted/self hosted coding environment.md",
     "php/Questions and Responses.md",
     "k8s and containers/container security best practise (docker or ...).md",
     "Server/selfhosted/article self hosted server.md",
