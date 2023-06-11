@@ -161,24 +161,16 @@
             "id": "8c4269dcd828a0ff",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.4"
-              }
-            }
-          },
-          {
-            "id": "29ec3d90c3db6730",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
+                "file": "Server/MyServers.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -282,7 +274,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "29ec3d90c3db6730",
+  "active": "8c4269dcd828a0ff",
   "lastOpenFiles": [
     "Server/selfhosted/self hosted coding environment.md",
     "Server/selfhosted/self host vscode.md",
