@@ -163,7 +163,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/MyServers.md",
+                "file": "Server/kvm virt virsh cheat sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/MyServers.md",
+                "file": "Server/kvm virt virsh cheat sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,6 +276,7 @@
   },
   "active": "8c4269dcd828a0ff",
   "lastOpenFiles": [
+    "Server/MyServers.md",
     "Server/kvm virt virsh cheat sheet.md",
     "Server/k3s installation and initialization.md",
     "Server/installing an iso image on ovh _ soyoustart dedicated server _ nicolas busseneau.pdf",
@@ -302,7 +303,6 @@
     "k8s and containers/terminology.md",
     "k8s and containers/links.md",
     "k8s and containers/container security best practise (docker or ...).md",
-    "k8s and containers/container scanning.md",
     "Untitled.canvas"
   ]
 }
