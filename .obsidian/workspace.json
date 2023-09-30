@@ -151,7 +151,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/MyServers.md",
+                "file": "Server/k3s installation and initialization.md",
                 "mode": "source",
                 "source": false
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "k3s",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -216,7 +216,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -236,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/MyServers.md",
+                "file": "Server/k3s installation and initialization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,8 +277,8 @@
   },
   "active": "fec7269e5247b3e6",
   "lastOpenFiles": [
-    "Server/kvm virt virsh cheat sheet.md",
     "Server/MyServers.md",
+    "Server/kvm virt virsh cheat sheet.md",
     "Server/k3s installation and initialization.md",
     "Server/installing an iso image on ovh _ soyoustart dedicated server _ nicolas busseneau.pdf",
     "Server/domain selling.md",
