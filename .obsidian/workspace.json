@@ -158,6 +158,16 @@
             }
           },
           {
+            "id": "d01c3d43ba880bf9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          },
+          {
             "id": "8c4269dcd828a0ff",
             "type": "leaf",
             "state": {
@@ -170,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -274,7 +284,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fec7269e5247b3e6",
+  "active": "d01c3d43ba880bf9",
   "lastOpenFiles": [
     "Server/kvm virt virsh cheat sheet.md",
     "Server/MyServers.md",
