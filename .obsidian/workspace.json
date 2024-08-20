@@ -151,7 +151,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/k3s installation and initialization.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "k3s",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -216,8 +216,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -237,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/k3s installation and initialization.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,9 +276,10 @@
   },
   "active": "fec7269e5247b3e6",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Server/k3s installation and initialization.md",
     "Server/MyServers.md",
     "Server/kvm virt virsh cheat sheet.md",
-    "Server/k3s installation and initialization.md",
     "Server/installing an iso image on ovh _ soyoustart dedicated server _ nicolas busseneau.pdf",
     "Server/domain selling.md",
     "Server/cokpit article.md",
@@ -302,8 +302,6 @@
     "k8s and containers/website links.md",
     "k8s and containers/tools.md",
     "k8s and containers/terminology.md",
-    "k8s and containers/links.md",
-    "k8s and containers/container security best practise (docker or ...).md",
-    "Untitled.canvas"
+    "k8s and containers/links.md"
   ]
 }
