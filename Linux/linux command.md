@@ -1,0 +1,3 @@
+#cli #linux 
+
+`inxi -Fxz`
