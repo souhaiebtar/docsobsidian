@@ -1,3 +1,5 @@
 #cli #linux 
 
-`inxi -Fxz`
+`inxi -Fxz` show information
+
+`df -h` show partition
