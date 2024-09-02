@@ -137,11 +137,9 @@
             "id": "3035c48d13d73fc9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "php/php open source project.md",
-                "mode": "source",
-                "source": false
+                "file": "whitepaper-zend-php-extensions.pdf"
               }
             }
           },
@@ -224,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "php/php open source project.md",
+                "file": "whitepaper-zend-php-extensions.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,11 +262,12 @@
   },
   "active": "3035c48d13d73fc9",
   "lastOpenFiles": [
+    "php/php open source project.md",
+    "whitepaper-zend-php-extensions.pdf",
     "php/Questions and Responses.md",
     "php/Symfony.md",
     "php/video.md",
     "php/php projects.md",
-    "php/php open source project.md",
     "php/php blog-site.md",
     "php/orm doctrine alternative.md",
     "php/design partterns article and.md",
@@ -290,7 +289,6 @@
     "Programming/Dev Terminology.md",
     "Linux/linux blog.md",
     "k8s and containers/website links.md",
-    "k8s and containers/tools.md",
-    "k8s and containers/terminology.md"
+    "k8s and containers/tools.md"
   ]
 }
