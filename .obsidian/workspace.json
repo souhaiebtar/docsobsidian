@@ -139,7 +139,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "whitepaper-zend-php-extensions.pdf"
+                "file": "php/whitepaper-zend-php-extensions.pdf"
               }
             }
           },
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "whitepaper-zend-php-extensions.pdf",
+                "file": "php/whitepaper-zend-php-extensions.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,10 +260,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3035c48d13d73fc9",
+  "active": "8dd347da7900e6db",
   "lastOpenFiles": [
     "php/php open source project.md",
-    "whitepaper-zend-php-extensions.pdf",
+    "php/whitepaper-zend-php-extensions.pdf",
     "php/Questions and Responses.md",
     "php/Symfony.md",
     "php/video.md",
