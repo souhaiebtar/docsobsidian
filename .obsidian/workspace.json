@@ -137,9 +137,23 @@
             "id": "3035c48d13d73fc9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "php/whitepaper-zend-php-extensions.pdf"
+                "file": "TMP stuff.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fec7269e5247b3e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server/k3s installation and initialization.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -156,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -185,7 +199,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "k3s",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -202,7 +216,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/linux blog.md",
+                "file": "Server/k3s installation and initialization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,25 +275,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8dd347da7900e6db",
+  "active": "fec7269e5247b3e6",
   "lastOpenFiles": [
-    "php/php open source project.md",
     "php/whitepaper-zend-php-extensions.pdf",
-    "php/Questions and Responses.md",
-    "php/Symfony.md",
-    "php/video.md",
-    "php/php projects.md",
-    "php/php blog-site.md",
-    "php/orm doctrine alternative.md",
-    "php/design partterns article and.md",
-    "php/composer.md",
-    "php/create framework.md",
-    "Linux/linux command.md",
-    "test.md",
     "Untitled.canvas",
-    "Server/k3s installation and initialization.md",
+    "Linux/linux command.md",
     "Server/MyServers.md",
     "Server/kvm virt virsh cheat sheet.md",
+    "Server/k3s installation and initialization.md",
     "Server/installing an iso image on ovh _ soyoustart dedicated server _ nicolas busseneau.pdf",
     "Server/domain selling.md",
     "Server/cokpit article.md",
@@ -287,8 +291,19 @@
     "Programming/website for developer.md",
     "Programming/devops terminology.md",
     "Programming/Dev Terminology.md",
+    "php/create framework.md",
+    "php/composer.md",
+    "php/design partterns article and.md",
+    "php/orm doctrine alternative.md",
+    "php/php blog-site.md",
+    "php/php open source project.md",
+    "php/php projects.md",
+    "php/Questions and Responses.md",
+    "php/Symfony.md",
+    "php/video.md",
     "Linux/linux blog.md",
     "k8s and containers/website links.md",
-    "k8s and containers/tools.md"
+    "k8s and containers/tools.md",
+    "k8s and containers/terminology.md"
   ]
 }
