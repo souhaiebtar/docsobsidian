@@ -180,35 +180,9 @@
               "icon": "lucide-file",
               "title": "TMP stuff"
             }
-          },
-          {
-            "id": "c6adb86cfd0ed904",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": true
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (conflict-files-obsidian-git)"
-            }
-          },
-          {
-            "id": "a51c932960842933",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (conflict-files-obsidian-git)"
-            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -280,6 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TMP stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +264,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for TMP stuff"
             }
           },
           {
@@ -332,7 +307,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a51c932960842933",
+  "active": "8c4269dcd828a0ff",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "TMP stuff.md",
