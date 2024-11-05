@@ -16,7 +16,9 @@
                 "file": "Linux/linux blog.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "linux blog"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Terminology.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Terminology"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "php/php open source project.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "php open source project"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "Server/selfhosted/mail server.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "mail server"
             }
           },
           {
@@ -64,7 +72,9 @@
                 "file": "TMP stuff.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "TMP stuff"
             }
           },
           {
@@ -74,7 +84,9 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.1.16"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.1.16"
             }
           },
           {
@@ -86,7 +98,9 @@
                 "file": "Linux/linux blog.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "linux blog"
             }
           },
           {
@@ -98,7 +112,9 @@
                 "file": "php/php open source project.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "php open source project"
             }
           },
           {
@@ -110,7 +126,9 @@
                 "file": "Linux/linux blog.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "linux blog"
             }
           },
           {
@@ -122,7 +140,9 @@
                 "file": "Server/MyServers.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "MyServers"
             }
           },
           {
@@ -130,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -140,7 +162,9 @@
               "type": "pdf",
               "state": {
                 "file": "php/whitepaper-zend-php-extensions.pdf"
-              }
+              },
+              "icon": "lucide-file-text",
+              "title": "whitepaper-zend-php-extensions"
             }
           },
           {
@@ -152,7 +176,9 @@
                 "file": "Server/kvm virt virsh cheat sheet.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "kvm virt virsh cheat sheet"
             }
           }
         ],
@@ -176,7 +202,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -191,7 +219,9 @@
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -199,7 +229,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -230,7 +262,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for linux blog"
             }
           },
           {
@@ -241,7 +275,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
         ]
@@ -253,6 +289,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
