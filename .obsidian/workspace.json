@@ -180,9 +180,21 @@
               "icon": "lucide-file",
               "title": "TMP stuff"
             }
+          },
+          {
+            "id": "b4cfdd3eab3db73e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -307,7 +319,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8c4269dcd828a0ff",
+  "active": "b4cfdd3eab3db73e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "TMP stuff.md",
