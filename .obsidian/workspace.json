@@ -185,12 +185,14 @@
             "id": "b4cfdd3eab3db73e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.5"
+                "file": "Server/create a lamp server on ubuntu  with let's encrypt on digital ocean.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "create a lamp server on ubuntu  with let's encrypt on digital ocean"
             }
           }
         ],
@@ -321,6 +323,7 @@
   },
   "active": "b4cfdd3eab3db73e",
   "lastOpenFiles": [
+    "Server/create a lamp server on ubuntu  with let's encrypt on digital ocean.md",
     "conflict-files-obsidian-git.md",
     "TMP stuff.md",
     "Server/kvm virt virsh cheat sheet.md",
@@ -348,7 +351,6 @@
     "Security/security tools.md",
     "Programming/website for developer.md",
     "Programming/devops terminology.md",
-    "Programming/Dev Terminology.md",
-    "k8s and containers/website links.md"
+    "Programming/Dev Terminology.md"
   ]
 }
