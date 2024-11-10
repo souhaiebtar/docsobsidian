@@ -12,3 +12,8 @@ CREATE USER 'prestashop'@'%' IDENTIFIED BY 'azda12&B';
 GRANT ALL PRIVILEGES ON prestashop.* TO 'prestashop'@'%';
 
 useradd unknown
+usermod -aG sudo unknown
+
+sudo apt install -y certbot python3-certbot-apache
+
+certbot --test-cert -m EMAIL--apache -d test.fesfes.online
