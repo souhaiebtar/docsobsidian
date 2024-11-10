@@ -19,3 +19,9 @@ sudo apt install -y certbot python3-certbot-apache
 certbot --test-cert -m tsouhaieb@gmail.com --agree-tos  --apache -d test.fesfes.online #staging certificate
 
 certbot -m tsouhaieb@gmail.com  --apache -d store.fesfes.online --agree-tos  # prod certificate
+
+certbot certificates
+
+certbot delete --cert-name store.fesfes.online
+
+
