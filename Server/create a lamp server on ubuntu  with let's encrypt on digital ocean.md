@@ -29,3 +29,7 @@ certbot certificates
 certbot delete --cert-name store.fesfes.online
 
 
+[1]: https://www.atlantic.net/vps-hosting/install-lamp-server-with-lets-encrypt-free-ssl-on-ubuntu-18-04/#step-5-securing-your-website-with-lets-encrypt
+
+[2]: https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu
+
