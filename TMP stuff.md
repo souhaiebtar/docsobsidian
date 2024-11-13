@@ -29,4 +29,13 @@ hardware haven youtube
 
 https://www.youtube.com/@AwesomeOpenSource
 
-sss
+click to pay woocommerce
+
+https://downloads.wordpress.org/plugin/clictopay-for-woocommerce.1.0.0.zip
+
+[Unofficial Documentation for Clictopay API](https://mczen-technologies.github.io/clictopay-api/#tag/payment)
+
+[BesrourMS/ClicToPay-Woocommerce: ClickToPay Woocommerce Plugin](https://github.com/BesrourMS/ClicToPay-Woocommerce)
+
+[common-repository/clictopay-for-woocommerce: Mirror of WordPress.org plugin: clictopay-for-woocommerce](https://github.com/common-repository/clictopay-for-woocommerce)
+
