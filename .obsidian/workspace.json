@@ -4,24 +4,185 @@
     "type": "split",
     "children": [
       {
-        "id": "2b1a6112f6f94d4d",
+        "id": "d915b75bba8f9eb1",
         "type": "tabs",
         "children": [
           {
-            "id": "cb81c3c8117c1102",
+            "id": "0192ddafe4e69112",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/create a lamp server on ubuntu  with let's encrypt on digital ocean.md",
+                "file": "Linux/linux blog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "create a lamp server on ubuntu  with let's encrypt on digital ocean"
+              "title": "linux blog"
+            }
+          },
+          {
+            "id": "9b64713f4912c4cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terminology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Terminology"
+            }
+          },
+          {
+            "id": "a9cb116813761cc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "php/php open source project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "php open source project"
+            }
+          },
+          {
+            "id": "99acb0d01174db83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server/selfhosted/mail server.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mail server"
+            }
+          },
+          {
+            "id": "d4e9fd31c2951561",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TMP stuff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TMP stuff"
+            }
+          },
+          {
+            "id": "0b8e3954e5e0a9e1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.1.16"
+            }
+          },
+          {
+            "id": "a6a94bfa8ca573f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/linux blog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "linux blog"
+            }
+          },
+          {
+            "id": "e131808d57e80a3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "php/php open source project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "php open source project"
+            }
+          },
+          {
+            "id": "56e59ecb63f77e2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/linux blog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "linux blog"
+            }
+          },
+          {
+            "id": "b5b2896140e9e2fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server/MyServers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MyServers"
+            }
+          },
+          {
+            "id": "1c9877fe01a89811",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "3035c48d13d73fc9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "php/whitepaper-zend-php-extensions.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "whitepaper-zend-php-extensions"
+            }
+          },
+          {
+            "id": "8c4269dcd828a0ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TMP stuff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TMP stuff"
             }
           }
-        ]
+        ],
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -146,19 +307,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cb81c3c8117c1102",
+  "active": "8c4269dcd828a0ff",
   "lastOpenFiles": [
     "Server/create a lamp server on ubuntu  with let's encrypt on digital ocean.md",
-    "Server/MyServers.md",
-    "Linux/linux blog.md",
-    "php/php open source project.md",
-    "Terminology.md",
-    "Server/selfhosted/mail server.md",
     "TMP stuff.md",
-    "php/whitepaper-zend-php-extensions.pdf",
-    "Untitled.canvas",
     "conflict-files-obsidian-git.md",
     "Server/kvm virt virsh cheat sheet.md",
+    "Linux/linux blog.md",
+    "php/php open source project.md",
+    "php/whitepaper-zend-php-extensions.pdf",
     "php/Questions and Responses.md",
     "php/Symfony.md",
     "php/video.md",
@@ -170,12 +327,16 @@
     "php/create framework.md",
     "Linux/linux command.md",
     "test.md",
+    "Untitled.canvas",
     "Server/k3s installation and initialization.md",
+    "Server/MyServers.md",
     "Server/installing an iso image on ovh _ soyoustart dedicated server _ nicolas busseneau.pdf",
     "Server/domain selling.md",
     "Server/cokpit article.md",
     "Server/selfhosted/HomeServer Artice (selfhosted).md",
     "Security/security tools.md",
-    "Programming/website for developer.md"
+    "Programming/website for developer.md",
+    "Programming/devops terminology.md",
+    "Programming/Dev Terminology.md"
   ]
 }
