@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring Core.md",
+                "file": "Gitlab/gitlab-ci.yml file for spring boot gradle app.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring Core"
+              "title": "gitlab-ci.yml file for spring boot gradle app"
             }
           }
         ]
@@ -149,13 +149,14 @@
   },
   "active": "cb81c3c8117c1102",
   "lastOpenFiles": [
+    "Spring/Spring Core.md",
+    "Gitlab/gitlab-ci.yml file for spring boot gradle app.md",
+    "Gitlab",
     "Pasted image 20250203094524.png",
     "Pasted image 20250203094057.png",
-    "Untitled",
     "Pasted image 20250129141959.png",
     "Pasted image 20250129113417.png",
     "Linux/linux blog.md",
-    "Spring/Spring Core.md",
     "Spring",
     "TMP stuff.md",
     "Server/create a lamp server on ubuntu  with let's encrypt on digital ocean.md",
