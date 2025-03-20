@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "237524bba8e8b4ae",
+        "id": "4184d5016170c674",
         "type": "tabs",
         "children": [
           {
-            "id": "9f9e7ac66de6bca0",
+            "id": "59b48c88f1e98346",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -133,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5,
-    "collapsed": true
+    "width": 223.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +149,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f9e7ac66de6bca0",
+  "active": "59b48c88f1e98346",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "AI/Article about ai.md",
     "Tools-Software/Untitled.md",
     "AI/list ai tools-website.md",
     "test autopushWorking.md",
@@ -170,7 +175,6 @@
     "Server/selfhosted/mail server.md",
     "php/whitepaper-zend-php-extensions.pdf",
     "Untitled.canvas",
-    "conflict-files-obsidian-git.md",
     "Server/kvm virt virsh cheat sheet.md",
     "php/Questions and Responses.md",
     "php/Symfony.md",
@@ -183,7 +187,6 @@
     "php/create framework.md",
     "Linux/linux command.md",
     "test.md",
-    "Server/k3s installation and initialization.md",
     "Server/installing an iso image on ovh _ soyoustart dedicated server _ nicolas busseneau.pdf"
   ]
 }
